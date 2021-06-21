@@ -1,0 +1,29 @@
+.row {
+    background-color: rgb(59, 59, 59);
+    text-align: center;
+}
+
+#cardsLinhas {
+    text-align: center;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+img {
+    width: 286px!important;
+    height: 200px!important;
+}
+
+#cardmodal {
+    text-align: center;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+#modalfooter {
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+}

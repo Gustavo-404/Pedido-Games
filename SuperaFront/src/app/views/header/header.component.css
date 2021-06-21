@@ -1,0 +1,5 @@
+.navbar {
+    background: -moz-linear-gradient(135deg, rgb(251, 140, 9) 0%, rgb(192, 44, 17) 100%);
+    background: -webkit-linear-gradient(135deg, rgb(251, 150, 9) 0%, rgb(205, 62, 8) 100%);
+    background: linear-gradient(135deg, rgb(251, 148, 8) 0%, rgb(180, 27, 25) 100%);
+}
